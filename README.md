@@ -4,8 +4,7 @@ Analysis and visualization of sentiment patterns in social media data to underst
 Dataset link:https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
 
-```markdown
-# Sentiment Analysis Comparison: TextBlob vs. VADER
+## Sentiment Analysis Comparison: TextBlob vs. VADER
 
 This project also compares sentiment analysis using TextBlob and VADER (vader_lexicon) on a dataset. TextBlob is a simple NLP library, while VADER is specifically designed for social media sentiment analysis. The project analyzes sentiment and categorizes it into positive, negative, or neutral sentiments based on polarity scores.
 
